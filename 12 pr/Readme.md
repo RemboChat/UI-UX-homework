@@ -43,6 +43,8 @@
 ## Prototype
 ![](Img/5.jpg)
 
+[Переглянути проєкт у Figma](https://www.figma.com/design/YY5VSOdz50Q46peOC2SQUb/Untitled?node-id=0-1&t=FLDqKauEOujcHBwB-1)
+#
 # Висновки:
 Що ви зробили на практиці?
 - Я зробив wireframe та prototype.
@@ -52,5 +54,6 @@
 
 - Постановці та гармонійності об'єктів.
 - Розумінню як розроблювати шаблон та із нього створювати прототип.
+
 
 
